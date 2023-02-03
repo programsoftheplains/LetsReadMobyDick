@@ -4,7 +4,7 @@ A Sentence A Day
 
 	Q: If one were to read Moby Dick one sentence a day, how many days would it take to read it?
 
-	A:
+	A: Approximately 3664. We say approximate, because the current program does not account for elipses (...) or other edge cases at this time. Let's see if we can prune some excess cases in future iterations!
 
 Write a program in this file that will compute an anser for us.
 
