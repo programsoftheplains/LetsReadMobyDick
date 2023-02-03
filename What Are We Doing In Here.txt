@@ -1,0 +1,14 @@
+
+
+A Sentence A Day
+
+	Q: If one were to read Moby Dick one sentence a day, how many days would it take to read it?
+
+	A:
+
+Write a program in this file that will compute an anser for us.
+
+-Download a .txt document cointaing Moby Dick
+-Access file in a program locally
+-create a variable that encapsulates the whole text as a string
+-go wild!	
