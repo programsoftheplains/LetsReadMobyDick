@@ -10,7 +10,7 @@ function previewFile() {
       let questions = reader.result.split('?')
       let exclamations = reader.result.split('!')
       let count = periods.length + questions.length + exclamations.length
-      //count each instance of punctuaction parameters, '. ' should avoids triple count on elipses
+      //count each instance of punctuaction parameters, '. ' avoids triple count on elipses
       console.log(periods[0])
       console.log(questions[0])
       console.log(exclamations[0])
